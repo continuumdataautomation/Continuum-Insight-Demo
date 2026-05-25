@@ -49,7 +49,6 @@ This application is one of several production systems I've built independently:
 - **Client deliverable report generation** — VBA system that produces fully formatted, client-ready Word and Excel outputs directly from raw working files, eliminating approximately 2 days of manual work per report cycle — now the team's standard operating procedure
 - **Invoice automation platform** — modular Python/Playwright system processing thousands of invoices per day across multiple client portals, with retry logic and plug-and-play portal expansion
 - **OCR pipeline** — production-grade extraction and validation of structured data from hundreds of invoices with full error handling
-- **ETL infrastructure** — Python/SQL Server data processing pipeline including automated diagnostics, type normalization, file merging, and coverage analysis, used daily by a team of 15
 - **Lead intelligence engine** — fully autonomous pipeline from multi-source SERP scraping through AI-powered scoring, Hunter.io enrichment, and LLM-personalized outreach
 ---
 
