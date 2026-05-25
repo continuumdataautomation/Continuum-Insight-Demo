@@ -12,6 +12,7 @@
 
 Continuum Insight is a fully packaged desktop application that takes large, messy, multi-format data files and turns them into clean, structured, queryable data in SQL Server — with no SQL knowledge required.
 
+Built entirely solo while working full time — from ideation and architecture through packaging and deployment.
 ---
 
 ## Features
